@@ -13,6 +13,7 @@ Classes das principais contas: Soma, Subtração, Multiplicação e Divisão
 ![image](https://github.com/gaschonfelder/Teste_automatizados/assets/111383427/c10e3c4a-4cb9-4d64-ad0a-21496a538cca)
 
 ##Cenários
+
 ![image](https://github.com/gaschonfelder/Teste_automatizados/assets/111383427/71796d31-2880-48f5-8cf5-68fa53f90a68)
 ![image](https://github.com/gaschonfelder/Teste_automatizados/assets/111383427/44068828-aec0-472e-a8cf-d0ceb272feda)
 ![image](https://github.com/gaschonfelder/Teste_automatizados/assets/111383427/df8d7ca3-f7c9-48d5-ab29-83c025c7c10b)
